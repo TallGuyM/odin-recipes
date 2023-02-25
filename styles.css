@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 32px;
+
+}
+
+.recipe{
+    color: cadetblue;
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    height: auto;
+}
+
+h3{
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+.Ingredients{
+    font-size: 14px;
+    font-style: italic;
+}
+
+#Back-to-home{
+    font-weight: bold;
+}
